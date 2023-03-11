@@ -9,6 +9,7 @@ public class gittest {
         System.out.println("chould me ~");
         System.out.println("what wrong with you, bro aha?");
         System.out.println("oh shi*,fu*k ! bro ,I love you");
+        System.out.println("hellow git ~");
 
 
     }
